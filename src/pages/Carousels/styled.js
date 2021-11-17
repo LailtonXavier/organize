@@ -31,7 +31,7 @@ export const CenterCars = styled.div`
   img {
     height: 283px;
     width: 360px;
-    object-fit: cover;
+    object-fit: fill;
   }
 
   @media (max-width: 800px) {
