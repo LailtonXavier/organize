@@ -77,7 +77,6 @@ export const Center = styled.div`
     .containerInitial {
       display: flex;
       flex-direction: column-reverse;
-      border: 1px solid red;
     }
 
     img {
@@ -91,6 +90,12 @@ export const Center = styled.div`
     }
     .p2 {
       font-size: 1rem;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .p1 {
+      margin-top: 9rem;
     }
   }
 `;
