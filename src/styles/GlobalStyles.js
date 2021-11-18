@@ -69,7 +69,7 @@ export default createGlobalStyle`
   }
   // color scroll
   ::-webkit-scrollbar-thumb {
-    background: ${colors.white};
+    background: #ddd;
     border-radius: 10px;
   }
   ::-webkit-scrollbar-thumb:hover {
@@ -79,6 +79,7 @@ export default createGlobalStyle`
 `;
 
 export const Container = styled.section`
-  max-width: 1440px;
+  max-width: 1400px;
   margin: auto;
+  padding: 1rem;
 `;

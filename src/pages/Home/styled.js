@@ -97,6 +97,9 @@ export const Center = styled.div`
     .p1 {
       margin-top: 9rem;
     }
+    .svgs {
+      right: 40px;
+    }
   }
 `;
 export const Lists = styled.div`

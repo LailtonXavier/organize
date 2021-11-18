@@ -6,6 +6,7 @@ export const Center = styled.div`
 
   margin: 3rem auto;
   position: relative;
+  border: 1px solid red;
 
   .item1 {
     display: flex;

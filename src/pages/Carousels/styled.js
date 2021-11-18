@@ -22,7 +22,6 @@ export const CenterCars = styled.div`
     margin-top: 10rem;
     margin-bottom: 34px;
     margin-left: 3rem;
-    margin-right: 0.5rem;
     background: white;
     box-shadow: 0px 0px 20px #ccc;
     height: 430px;
@@ -36,12 +35,12 @@ export const CenterCars = styled.div`
 
   @media (max-width: 800px) {
     img {
-      margin: 0.2rem;
       height: auto;
-      width: 150px;
     }
     .card {
       height: 400px;
+      background: red;
+      margin-left: 0rem;
     }
   }
 

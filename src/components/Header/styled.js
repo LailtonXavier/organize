@@ -7,7 +7,7 @@ export const Center = styled.nav`
   margin-top: 54px;
 
   a {
-    margin: 0.5rem;
+    margin: 0.5rem 0;
     color: white;
   }
 
