@@ -33,17 +33,6 @@ export const CenterCars = styled.div`
     object-fit: fill;
   }
 
-  @media (max-width: 800px) {
-    img {
-      height: auto;
-    }
-    .card {
-      height: 400px;
-      background: red;
-      margin-left: 0rem;
-    }
-  }
-
   .icons {
     color: #4ac959;
     width: 4rem;
@@ -165,12 +154,20 @@ export const CenterCars = styled.div`
       height: 15rem;
     }
   }
+
   @media (max-width: 700px) {
+    img {
+      height: auto;
+    }
+    .card {
+      height: 400px;
+      margin-left: 0rem;
+    }
     .owl-prev::after {
-      top: -100px;
+      top: -25px;
     }
     .owl-nav .owl-next::after {
-      top: -105px;
+      top: -25px;
     }
 
     .card {
