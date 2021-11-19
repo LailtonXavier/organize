@@ -30,14 +30,5 @@ no fim deu certo.
   - cono meu arquivo `.env` tem dados de meu servidor, te enviar a chave pelo
   o Linkedin.
 
-[AGRADECIMENTOS:]
-- Lincoln obrigado pelo o teste amigo, foi divertido, na API sabe todo aquele
-sistema de Login, de gerar um token, criar um middlewares e fechas as rotas
-com esse Token, isso é muito bom de fazer e na parte Front, tambem é divertido
-de implementar, tenho projetos meus que ja fiz essa logica, não deu tempo de
-implementar, tive muito contra-tempo, porem isso não deve ser desculpa, numa
-empresa estou ciente de que deve haver foto 100%.
-- Foi legal, espero um dia a gente se ver e trocar uma ideias meu amigo,
-muito sucesso pra vc, estarei por aqui, sempre procurando melhorar,
-estudando mais.
+
 #TMJ :)
